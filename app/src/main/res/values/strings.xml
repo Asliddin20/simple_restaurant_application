@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple Restaurant 2</string>
+    <string name  = "txtEggQuality">Egg Quality: </string>
+</resources>
